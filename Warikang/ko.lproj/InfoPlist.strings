@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  WarikangMon
+
+  Created by 이승기 on 2020/08/15.
+  
+*/
+"CFBundleDisplayName" = "와리깡몬";
+"CFBundleName" = "와리깡몬";

@@ -1,0 +1,87 @@
+
+/* Class = "UILabel"; text = "명"; ObjectID = "3Tq-le-GM5"; */
+"3Tq-le-GM5.text" = "人";
+
+/* Class = "UILabel"; text = "명"; ObjectID = "42M-qY-Mco"; */
+"42M-qY-Mco.text" = "人";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "44O-ZV-1RD"; */
+"44O-ZV-1RD.text" = "0";
+
+/* Class = "UILabel"; text = "술 마신 사람"; ObjectID = "6zd-ME-Kp9"; */
+"6zd-ME-Kp9.text" = "飲んだ人";
+
+/* Class = "UILabel"; text = "나머지"; ObjectID = "BNR-D4-8gE"; */
+"BNR-D4-8gE.text" = "のこり";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "BhT-bb-jWv"; */
+"BhT-bb-jWv.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "CwP-kN-lvB"; */
+"CwP-kN-lvB.text" = "0";
+
+/* Class = "UILabel"; text = "백원 단위로 계산"; ObjectID = "D7W-Xp-MW1"; */
+"D7W-Xp-MW1.text" = "100円単位で計算";
+
+/* Class = "UILabel"; text = "계산 결과"; ObjectID = "Fp1-qW-uH4"; */
+"Fp1-qW-uH4.text" = "計算結果";
+
+/* Class = "UILabel"; text = "술 안 마신 사람들이  각자 낼 돈"; ObjectID = "Gew-2d-Zx1"; */
+"Gew-2d-Zx1.text" = "飲んでない人";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "HTp-ym-sAm"; */
+"HTp-ym-sAm.text" = "0";
+
+/* Class = "UITextField"; text = "0"; ObjectID = "IOX-c3-BXB"; */
+"IOX-c3-BXB.text" = "0";
+
+/* Class = "UILabel"; text = "술 값"; ObjectID = "Lf8-e7-E4N"; */
+"Lf8-e7-E4N.text" = "お酒";
+
+/* Class = "UILabel"; text = "명"; ObjectID = "QwX-Q4-kJM"; */
+"QwX-Q4-kJM.text" = "人";
+
+/* Class = "UILabel"; text = "원"; ObjectID = "RO5-6E-Yde"; */
+"RO5-6E-Yde.text" = "円";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "SMV-Wz-gNw"; */
+"SMV-Wz-gNw.text" = "0";
+
+/* Class = "UILabel"; text = "술 마신 사람들이  각자 낼 돈"; ObjectID = "V6B-YY-ulx"; */
+"V6B-YY-ulx.text" = "飲んだ人";
+
+/* Class = "UILabel"; text = "원"; ObjectID = "Wkx-Fq-SOF"; */
+"Wkx-Fq-SOF.text" = "円";
+
+/* Class = "UITextField"; text = "0"; ObjectID = "Wr4-18-ucg"; */
+"Wr4-18-ucg.text" = "0";
+
+/* Class = "UILabel"; text = "안주 값"; ObjectID = "ZE5-2z-vR1"; */
+"ZE5-2z-vR1.text" = "おつまみ";
+
+/* Class = "UILabel"; text = "원"; ObjectID = "b8j-yj-j2s"; */
+"b8j-yj-j2s.text" = "円";
+
+/* Class = "UILabel"; text = "술 안 마신 사람"; ObjectID = "fr6-aK-LzO"; */
+"fr6-aK-LzO.text" = "飲んでない人";
+
+/* Class = "UIButton"; normalTitle = "카카오톡 공유"; ObjectID = "g75-cg-iyn"; */
+"g75-cg-iyn.normalTitle" = "シェア";
+
+/* Class = "UILabel"; text = "원"; ObjectID = "kdk-uP-qjQ"; */
+"kdk-uP-qjQ.text" = "円";
+
+/* Class = "UIButton"; normalTitle = "계산 !"; ObjectID = "oA7-3u-cqw"; */
+"oA7-3u-cqw.normalTitle" = "計算 !";
+
+/* Class = "UILabel"; text = "원"; ObjectID = "sX2-oV-RCd"; */
+"sX2-oV-RCd.text" = "円";
+
+/* Class = "UILabel"; text = "명"; ObjectID = "uez-WY-QBy"; */
+"uez-WY-QBy.text" = "人";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "wbo-FU-IIU"; */
+"wbo-FU-IIU.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "y8x-qY-DfC"; */
+"y8x-qY-DfC.text" = "0";
